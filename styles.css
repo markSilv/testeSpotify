@@ -12,7 +12,7 @@ h1{
     left:0;
     bottom:0;
     padding:12px;
-    width:300px;
+    
 }
 
 .sidebar__navigation{
@@ -22,7 +22,7 @@ h1{
 }
 
 .logo{
-    background: #121212;
+    background: #000;
     display:flex;
     border-radius:8px ;
     padding:16px 0 0 16px;
