@@ -22,7 +22,7 @@ h1{
 }
 
 .logo{
-    background: #000;
+    background: #121212;
     display:flex;
     border-radius:8px ;
     padding:16px 0 0 16px;
@@ -34,7 +34,7 @@ h1{
 
 .sidebar nav ul{
     margin-top: 20px;
-    padding:0 20px 10px 20px;
+    padding:0px 50px 20px 20px;
 }
 
 .sidebar ul li{
